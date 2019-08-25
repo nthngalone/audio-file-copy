@@ -21,6 +21,7 @@ Upon execution the following events happen:
 ## Enhancements
 
 Future enhancement possibilities:
+- Add configuration for a custom extension whitelist
 - Add options for filename formatting (ex. strip whitespace)
 - Set up as a library/api instead of just a script (export copy module)
 
