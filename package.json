@@ -4,14 +4,14 @@
   "description": "Synchronous file copy for usb music",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "copy": "node src/index.js"
   },
   "author": "nthngalone",
   "license": "ISC",
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
-    "eslint": "^6.1.0"
+    "rimraf": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
